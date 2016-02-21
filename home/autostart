@@ -1,0 +1,16 @@
+while [ 0 -eq 0 ]
+do
+ps -u mud>/home/mud/file1
+grep driver /home/mud/file1
+if [ $? -ne 0 ]
+  then
+ grep addr_ser /home/mud/file1>file2
+ cut -c1-7 /home/mud/file2>file3
+ read killed <file3
+ kill $killed
+ cd /opt/xkx/borland/mudos/bin
+ startxkx
+ else
+  sleep 20
+fi
+done

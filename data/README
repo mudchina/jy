@@ -1,0 +1,9 @@
+这个子目录所存的文件均是 save_object() 所创造的.
+
+chinese.o:	中英对照词典
+emote.o:	动作定义
+
+login/:		玩家联线迅息
+user/:		玩家资料
+
+# Originally created by Xiang

@@ -1,0 +1,3 @@
+#clone/user/user.c
+dbase (["potential":99,"mud_age":602,"registered":1,"id":"lxlx","race":"人类","actions":,"channels":({"chat","rumor","music",}),"max_qi":100,"default_actions":,"title":"普通百姓","gender":"女性","int":20,"shen_type":0,"jing":100,"eff_jing":100,"dex":20,"age":14,"shen":0,"str":16,"kar":28,"con":24,"eff_qi":100,"name":"一只狒狒","qi":100,"birthday":861532086,"max_jing":100,"pighead":0,"startroom":"/d/city/kedian","per":30,])
+autoload ({"/d/shenlong/obj/hua4.c","/d/shenlong/obj/baihua.c","/d/shenlong/obj/hua4.c","/d/shenlong/obj/baihua.c",})

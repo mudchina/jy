@@ -1,0 +1,38 @@
+From mud Tue Mar  4 10:52:38 1997
+Return-Path: <mud>
+Received: by seanet-bupt2. (SMI-8.6/SMI-SVR4)
+	id KAA00787; Tue, 4 Mar 1997 10:52:38 +0800
+Date: Tue, 4 Mar 1997 10:52:38 +0800
+From: mud
+Message-Id: <199703040252.KAA00787@seanet-bupt2.>
+Content-Type: text
+Apparently-To: mud
+Content-Length: 308
+Status: RO
+
+A copy of an editor buffer of yours was saved when the editor was killed
+No name was associated with this buffer so it has been named "LOST".
+This buffer can be retrieved using the "recover" command of the editor.
+An easy way to do this is to give the command "vi -r ".
+This works for "edit" and "ex" also.
+
+
+From mud Mon Mar 10 09:38:33 1997
+Return-Path: <mud>
+Received: by seanet-bupt2. (SMI-8.6/SMI-SVR4)
+	id JAA05721; Mon, 10 Mar 1997 09:38:33 +0800
+Date: Mon, 10 Mar 1997 09:38:33 +0800
+From: mud
+Message-Id: <199703100138.JAA05721@seanet-bupt2.>
+Content-Type: text
+Apparently-To: mud
+Content-Length: 257
+Status: RO
+
+A copy of an editor buffer of your file "lll.c"
+was saved when the editor was killed.
+This buffer can be retrieved using the "recover" command of the editor.
+An easy way to do this is to give the command "vi -r lll.c".
+This works for "edit" and "ex" also.
+
+

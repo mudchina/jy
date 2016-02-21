@@ -1,0 +1,263 @@
+1.巫师基本命令:
+
+[档案处理]
+ 
+cd  more  ls  rm  cat  edit  mv  rmdir  cp  mkdir  tail
+ 
+[物件处理]
+ 
+call  dest  localcmds  update  clone ilist
+ 
+[查询用指令]
+ 
+config  mudlist  cost  whoami  ff  info  qload  mem  status  where
+pwd  ulist
+ 
+[系统管理]
+ 
+dump  profile  purge  shutdown  callouts  chinese  cleanup  possess
+rehash  reclaim  reboot  promote  wizlock  edemote  snoop
+ 
+[其他]
+ 
+goto  halt  summon  smash
+
+2.命令含意:
+
+a.cd:
+ cd <子目录名>, cd .. , and cd
+
+将目前参考的目录移至指定的子目录或回到上一主目录; 亦可直接回到自己工作目录。
+
+b.more:
+
+指令格式 : more <档案>|<物件名>
+ 
+分页显示档案内容。
+ 
+more 模式下的指令:
+q      : 离开 more.
+b      : 显示前一页的内容.
+[ENTER]: 显示下一页的内容.
+
+c.ls:
+
+ 指令格式: ls [<路径名>]
+ 
+列出目录下所有的子目录及档案, 如果没有指定目录, 则列出所在目录
+的内容，所列出的档案中前面标示 * 号的是已经载入的物件。
+ 
+□例:
+'ls /' 会列出所有位於根目录下的档案及子目录.
+
+d.rm
+
+指令格式 : rm <档名>
+
+此指令可让你(□)删除有权修改的档案。
+
+e.cat
+
+ 指令格式 : cat <档案>
+
+此指令可让你(□)直接读取某档案之程式。
+
+f.edit
+
+指令格式 : edit <档名>, edit here
+
+利用此一指令可直接在线上编辑档案。
+
+g. mv
+
+指令格式 : mv <原档名> <目标档名>
+ 
+此指令可让你(□)修改某个档案或目录名称。
+
+h. rmdir
+
+指令格式 : rmdir <子目录名>
+
+删除一个子目录。
+
+i. cp
+
+指令格式 : cp <原档名> <目标档名>
+ 
+此指令可让你(□)拷贝档案。
+
+j. mkdir
+
+指令格式 : mkdir <子目录名>
+
+建立一个子目录。
+
+k. tail
+
+指令格式 : tail <档案>
+
+此指令可让你(□)直接读取某档案最末尾的几行。
+
+l. call
+
+指令格式 : call <物件>-><函数>(<参数>, ...... )
+ 
+呼叫<物件>里的<函数>并传入相关<参数>.
+ 
+m.dest
+
+dest [-r] <物件之名称或档名>
+
+利用此一指令可将一个物件(object)或物件定义(class)从记忆体中清除，若清除物
+件定义(即：指定档名的情况下)则下一次参考到这个物件的时候会重新将它编译。
+
+具有 (admin) 身分的巫师可以用 -r 选项以 ROOT_UID 身分来清除被保护的物件如
+使用者。
+
+参考资料： destruct()
+
+n. localcmds
+
+指令格式：localcmds
+
+列出你身上及四周的物品与所在的环境提供的所有指令。
+
+o. update
+
+指令格式 : update <档名|here|me|玩家名>
+ 
+这个指令可以更新档案, 并将新档的内容载入记忆体内. 若目标为
+'here' 则更新所在环境. 若目标为 'me' 则更新自己的人物. 若目
+标为玩家则可更新玩家物件.
+ 
+p.clone
+
+指令格式 : clone <档名>
+
+利用此指令可复制任何能移动之物件(含怪物)。
+
+q.ilist
+
+ ilist <物件或档名>
+ 
+列出一个物件所继承的所有物件。
+ 
+r. config
+
+Show 出本 MUD 的 Startup Configuration 。
+
+s.mudlist
+
+ 指令格式：mudlist [<Mud 名称>]
+
+这个指令让你列出目前跟这个 Mud 取得联系中的其他 Mud。
+
+t.cost
+
+ 指令格式：cost <指令> [<参数> .... ]
+
+这个指令让你测量另一个指令执行所需的时间。
+
+u.whoami
+
+指令格式 : whoami 
+
+Show 出你的 User ID 及 Effective User ID 。
+
+v. ff
+
+指令格式：ff <物件> <函数名称>
+
+这个指令可以找出指定物件中的某个函数定义在哪一个档案里。
+
+w. info
+
+指令格式 : info <物件之名称或档名>
+
+利用此一指令可得知一些有关该物件的资讯。
+
+x. qload
+
+指令格式 : qload 
+
+这个指令显示出目前 CPU 的负担, cmds/s 是每秒编译几个 cmds
+comp lines/s 是每秒几行。
+
+y. mem
+
+指令格式 : mem <物件之名称或档名>
+
+这个指令告诉你某个物件占用的记忆体数量。
+若没有指明物件, 则会显示目前游戏所占用的记忆体.
+
+z.  status
+
+指令格式 : status [detail]
+ 
+这个指令可以显示出目前游戏的一些相关资料及状况.
+ 
+ab. where
+
+指令格式: where <玩家的 ID>
+
+这个指令是用来得知玩家目前所在的位置.
+
+ac. pwd
+
+指令格式 : pwd
+ 
+这个指令会显示出你目前的工作目录 (cwd) 及工作档案 (cwf).
+'update' 不加参数时便会更新你的 cwf.
+ 
+ad. ulist
+
+指令格式 : ulist
+
+将线上所有玩家的/obj/user number 显示出来。
+
+ae. edemote
+
+指令格式 : edemote [-d|-p] <emote>
+ 
+这个指令可以修改, 删除 emote 或列出其内容. 加上 -d 参数会删除
+指定的 emote, -p 参数则会列出指定 emote 的内容. 列出的顺序与编
+辑 emote 时相同.
+ 
+输入 emote 讯息时有三个项目: 没有目标, 指定目标或是对自己. 若
+不想有某项讯息, 则直接在空白行输入 '.' 跳过.
+ 
+一个 emote 讯息可以有很多行, 在空白行输入 '.' 结束输入该项 emote.
+ 
+编辑 emote 时可以用以下的符号来表示:
+ 
+$N : 自己的名字.
+$n : 目标的名字.
+$P : 自己的人称代名词.
+$p : 目标的人称代名词.
+
+af. goto
+
+指令格式 : goto [-i] <目标>
+ 
+这个指令会将你传送到指定的目标. 目标可以是一个living 或房间
+的档名. 如果目标是living , 你会被移到跟那个人同样的环境.
+如果有加上 -i 参数且目标是 living, 则你会被移到该 living 的
+的 inventory 中.
+ 
+ai. halt
+
+指令格式: halt
+
+可以停止所有与你(□)有关的战斗。
+
+aj. summon
+
+指令格式 : summon <某人>
+
+此指令可让你(□)将某人抓到你面前。
+
+ak. smash
+
+指令格式: smash <生物>
+ 
+hehehehehe...........

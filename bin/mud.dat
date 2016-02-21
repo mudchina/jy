@@ -1,0 +1,1507 @@
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 09:27:45 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/cmds/adm/getid'
+
+³ÌÊ½£ºfeature/command.c µÚ 56 ÐÐ
+Îï¼þ: /clone/user/user#1
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/cmds/adm/getid'
+
+³ÌÊ½£ºfeature/command.c µÚ 56 ÐÐ
+Îï¼þ: /clone/user/user#1
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 09:58:51 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 10:19:32 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 10:26:32 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 10:26:51 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 10:29:35 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/clone/npc/meng-zhu'
+
+³ÌÊ½£ºd/taishan/npc/wei-shi1.c µÚ 53 ÐÐ
+Îï¼þ: /d/taishan/npc/wei-shi1#110
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/std/go.c µÄ main() µÚ 116 ÐÐ£¬Îï¼þ£º cmds/std/go
+ºô½ÐÀ´×Ô£ºfeature/move.c µÄ move() µÚ 85 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºd/taishan/npc/jian-ke.c µÄ init() µÚ 39 ÐÐ£¬Îï¼þ£º d/taishan/npc/jian-ke#101 ("½£¿Í")
+ºô½ÐÀ´×Ô£ºd/taishan/fengchan.c µÄ create() µÚ 32 ÐÐ£¬Îï¼þ£º d/taishan/fengchan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ setup() µÚ 203 ÐÐ£¬Îï¼þ£º d/taishan/fengchan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 65 ÐÐ£¬Îï¼þ£º d/taishan/fengchan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 20 ÐÐ£¬Îï¼þ£º d/taishan/fengchan
+ºô½ÐÀ´×Ô£ºfeature/move.c µÄ move() µÚ 85 ÐÐ£¬Îï¼þ£º d/taishan/npc/wei-shi1#110 ("°×ÒÂÎäÊ¿")
+ºô½ÐÀ´×Ô£ºd/taishan/npc/wei-shi1.c µÄ init() µÚ 53 ÐÐ£¬Îï¼þ£º d/taishan/npc/wei-shi1#110 ("°×ÒÂÎäÊ¿")
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/clone/npc/meng-zhu'
+
+³ÌÊ½£ºcmds/arch/clone.c µÚ 26 ÐÐ
+Îï¼þ: /cmds/arch/clone
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/arch/clone.c µÄ main() µÚ 26 ÐÐ£¬Îï¼þ£º cmds/arch/clone
+ºô½ÐÀ´×Ô£ºcmds/arch/clone.c µÄ CATCH() µÚ 26 ÐÐ£¬Îï¼þ£º cmds/arch/clone
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/clone/npc/meng-zhu'
+
+³ÌÊ½£ºcmds/arch/clone.c µÚ 26 ÐÐ
+Îï¼þ: /cmds/arch/clone
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/arch/clone.c µÄ main() µÚ 26 ÐÐ£¬Îï¼þ£º cmds/arch/clone
+ºô½ÐÀ´×Ô£ºcmds/arch/clone.c µÄ CATCH() µÚ 26 ÐÐ£¬Îï¼þ£º cmds/arch/clone
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/clone/npc/meng-zhu'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 52 ÐÐ
+Îï¼þ: /cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/clone/npc/meng-zhu'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 52 ÐÐ
+Îï¼þ: /cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/clone/npc/shang-shan'
+
+³ÌÊ½£ºd/taishan/npc/wei-shi1.c µÚ 58 ÐÐ
+Îï¼þ: /d/taishan/npc/wei-shi1#210
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 65 ÐÐ£¬Îï¼þ£º d/taishan/fengchan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 20 ÐÐ£¬Îï¼þ£º d/taishan/fengchan
+ºô½ÐÀ´×Ô£ºfeature/move.c µÄ move() µÚ 85 ÐÐ£¬Îï¼þ£º d/taishan/npc/wei-shi1#210 ("°×ÒÂÎäÊ¿")
+ºô½ÐÀ´×Ô£ºd/taishan/npc/wei-shi1.c µÄ init() µÚ 58 ÐÐ£¬Îï¼þ£º d/taishan/npc/wei-shi1#210 ("°×ÒÂÎäÊ¿")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/shenlong/obj/hua2.c µÚ 23 ÐÐ
+Îï¼þ: /d/shenlong/obj/hua2#332
+ºô½ÐÀ´×Ô£ºd/shenlong/obj/hua2.c µÄ do_eat() µÚ 23 ÐÐ£¬Îï¼þ£º d/shenlong/obj/hua2#332 ("ÎÞÃû»¨")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Printable strings limited to length of 8192.
+
+³ÌÊ½£ºadm/obj/simul_efun.c µÚ 5 ÐÐ
+Îï¼þ: /adm/obj/simul_efun
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/cat.c µÄ main() µÚ 16 ÐÐ£¬Îï¼þ£º cmds/wiz/cat
+ºô½ÐÀ´×Ô£ºadm/obj/simul_efun.c µÄ cat() µÚ 5 ÐÐ£¬Îï¼þ£º adm/obj/simul_efun
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Printable strings limited to length of 8192.
+
+³ÌÊ½£ºadm/obj/simul_efun.c µÚ 5 ÐÐ
+Îï¼þ: /adm/obj/simul_efun
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/cat.c µÄ main() µÚ 16 ÐÐ£¬Îï¼þ£º cmds/wiz/cat
+ºô½ÐÀ´×Ô£ºadm/obj/simul_efun.c µÄ cat() µÚ 5 ÐÐ£¬Îï¼þ£º adm/obj/simul_efun
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/clone/npc/shang-shan'
+
+³ÌÊ½£ºd/taishan/npc/wei-shi1.c µÚ 58 ÐÐ
+Îï¼þ: /d/taishan/npc/wei-shi1#489
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 65 ÐÐ£¬Îï¼þ£º d/taishan/fengchan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 20 ÐÐ£¬Îï¼þ£º d/taishan/fengchan
+ºô½ÐÀ´×Ô£ºfeature/move.c µÄ move() µÚ 85 ÐÐ£¬Îï¼þ£º d/taishan/npc/wei-shi1#489 ("°×ÒÂÎäÊ¿")
+ºô½ÐÀ´×Ô£ºd/taishan/npc/wei-shi1.c µÄ init() µÚ 58 ÐÐ£¬Îï¼þ£º d/taishan/npc/wei-shi1#489 ("°×ÒÂÎäÊ¿")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/clone/npc/shang-shan'
+
+³ÌÊ½£ºd/taishan/npc/wei-shi1.c µÚ 58 ÐÐ
+Îï¼þ: /d/taishan/npc/wei-shi1#492
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 65 ÐÐ£¬Îï¼þ£º d/taishan/fengchan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 20 ÐÐ£¬Îï¼þ£º d/taishan/fengchan
+ºô½ÐÀ´×Ô£ºfeature/move.c µÄ move() µÚ 85 ÐÐ£¬Îï¼þ£º d/taishan/npc/wei-shi1#492 ("°×ÒÂÎäÊ¿")
+ºô½ÐÀ´×Ô£ºd/taishan/npc/wei-shi1.c µÄ init() µÚ 58 ÐÐ£¬Îï¼þ£º d/taishan/npc/wei-shi1#492 ("°×ÒÂÎäÊ¿")
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 12:23:05 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 12:53:31 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+][1;31m¡¾ÏµÍ³¡¿ÅÖÅÖ(Jackyboy)£º¶ÏÏßÁË¡£
+[2;37;0m
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 14:53:08 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 14:55:31 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 14:56:04 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 16:20:37 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 16:20:56 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 16:23:49 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 10 16:37:36 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 14 17:43:02 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+include/globals.h line 119: parse error
+No error handler for error: *Error in loading object '/adm/obj/simul_efun'
+program: (none), object: (none), file: (none)
+The simul_efun (/adm/obj/simul_efun) and master (/adm/obj/master) objects must be loadable.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 14 17:43:05 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+include/globals.h line 119: parse error
+No error handler for error: *Error in loading object '/adm/obj/simul_efun'
+program: (none), object: (none), file: (none)
+The simul_efun (/adm/obj/simul_efun) and master (/adm/obj/master) objects must be loadable.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 14 18:57:41 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 14 22:27:16 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 15 08:03:09 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 15 09:06:50 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 15 09:07:42 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 15 12:23:43 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 15 14:47:26 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 15 14:48:38 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+get_user_data: read on fd 48
+System Error: get_user_data: read:No such file or directory
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Wed Sep 16 09:50:35 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Wed Sep 16 09:50:48 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Wed Sep 16 10:01:15 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Wed Sep 16 12:55:42 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+closed external ports
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 17 15:09:26 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Thu Sep 17 16:07:48 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Fri Sep 18 10:16:42 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+closed external ports
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Fri Sep 18 10:45:52 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/kungfu/class/gaibang/jian'
+
+³ÌÊ½£ºinherit/room/room.c µÚ 19 ÐÐ
+Îï¼þ: /d/city/gbandao
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/imm/goto.c µÄ main() µÚ 26 ÐÐ£¬Îï¼þ£º cmds/imm/goto
+ºô½ÐÀ´×Ô£ºfeature/move.c µÄ move() µÚ 61 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºd/city/gbandao.c µÄ create() µÚ 27 ÐÐ£¬Îï¼þ£º d/city/gbandao
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ setup() µÚ 203 ÐÐ£¬Îï¼þ£º d/city/gbandao
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 54 ÐÐ£¬Îï¼þ£º d/city/gbandao
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 19 ÐÐ£¬Îï¼þ£º d/city/gbandao
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/kungfu/class/gaibang/jian'
+
+³ÌÊ½£ºcmds/arch/clone.c µÚ 26 ÐÐ
+Îï¼þ: /cmds/arch/clone
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#1 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/arch/clone.c µÄ main() µÚ 26 ÐÐ£¬Îï¼þ£º cmds/arch/clone
+ºô½ÐÀ´×Ô£ºcmds/arch/clone.c µÄ CATCH() µÚ 26 ÐÐ£¬Îï¼þ£º cmds/arch/clone
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to keys()
+Expected: mapping Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 100 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#312
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ check_skills() µÚ 100 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#312 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/cmds/usr/to'
+
+³ÌÊ½£ºfeature/command.c µÚ 56 ÐÐ
+Îï¼þ: /clone/user/user#325
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#325 ("ÅÖÅÖ")
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+][1;31m¡¾ÏµÍ³¡¿°¢Èý(Zhg)£º¶ÏÏßÁË¡£
+[2;37;0m
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to sscanf
+Expected: string Got: 0.
+
+³ÌÊ½£ºu/jackyboy/topless.c µÚ 312 ÐÐ
+Îï¼þ: /u/jackyboy/topless#358
+ºô½ÐÀ´×Ô£ºu/jackyboy/topless.c µÄ do_give() µÚ 312 ÐÐ£¬Îï¼þ£º u/jackyboy/topless#358 ("ÅÖÅÖ´ÓºÃÃÀÀöÄÇÀïÍµÀ´µÄÃÀÀöÓ¾×°")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to sscanf
+Expected: string Got: 0.
+
+³ÌÊ½£ºu/jackyboy/topless.c µÚ 312 ÐÐ
+Îï¼þ: /u/jackyboy/topless#358
+ºô½ÐÀ´×Ô£ºu/jackyboy/topless.c µÄ do_give() µÚ 312 ÐÐ£¬Îï¼þ£º u/jackyboy/topless#358 ("ÅÖÅÖ´ÓºÃÃÀÀöÄÇÀïÍµÀ´µÄÃÀÀöÓ¾×°")
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Fri Sep 18 17:27:54 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Fri Sep 18 18:12:42 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+get_user_data: read on fd 52
+System Error: get_user_data: read:No such file or directory
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to keys()
+Expected: mapping Got: 0.
+
+³ÌÊ½£ºd/npc/xiaofeng.c µÚ 96 ÐÐ
+Îï¼þ: /d/npc/xiaofeng#369
+ºô½ÐÀ´×Ô£ºd/npc/xiaofeng.c µÄ check_skills() µÚ 96 ÐÐ£¬Îï¼þ£º d/npc/xiaofeng#369 ("Ïô·å")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to keys()
+Expected: mapping Got: 0.
+
+³ÌÊ½£ºd/npc/xiaofeng.c µÚ 96 ÐÐ
+Îï¼þ: /d/npc/xiaofeng#369
+ºô½ÐÀ´×Ô£ºd/npc/xiaofeng.c µÄ check_skills() µÚ 96 ÐÐ£¬Îï¼þ£º d/npc/xiaofeng#369 ("Ïô·å")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºinherit/room/room.c µÚ 20 ÐÐ
+Îï¼þ: /d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#163 ("¿ÉÐÄ")
+ºô½ÐÀ´×Ô£ºcmds/std/go.c µÄ main() µÚ 72 ÐÐ£¬Îï¼þ£º cmds/std/go
+ºô½ÐÀ´×Ô£ºd/taohua/dayuan.c µÄ create() µÚ 26 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ setup() µÚ 203 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºd/taohua/dayuan.c µÄ reset() µÚ 75 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 54 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 20 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+get_user_data: read on fd 48
+System Error: get_user_data: read:No such file or directory
+get_user_data: read on fd 48
+System Error: get_user_data: read:No such file or directory
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Sat Sep 19 10:40:33 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Sat Sep 19 10:40:58 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+get_user_data: read on fd 52
+System Error: get_user_data: read:No such file or directory
+get_user_data: read on fd 48
+System Error: get_user_data: read:No such file or directory
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to keys()
+Expected: mapping Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 100 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#176
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ check_skills() µÚ 100 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#176 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to keys()
+Expected: mapping Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 100 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#176
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ check_skills() µÚ 100 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#176 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to keys()
+Expected: mapping Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 100 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#176
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ check_skills() µÚ 100 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#176 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to keys()
+Expected: mapping Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 100 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#176
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ check_skills() µÚ 100 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#176 ("¶ÎÑÓÇì")
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 21 08:07:00 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 21 08:10:04 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 21 10:03:02 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 21 10:04:32 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+get_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+][1;31m¡¾ÏµÍ³¡¿ÐÇÐÇ(Zaixin)£º¶ÏÏßÁË¡£
+[2;37;0m][1;31m¡¾ÏµÍ³¡¿°¢Èý(Zhg)£º¶ÏÏßÁË¡£
+[2;37;0mget_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+][1;31m¡¾ÏµÍ³¡¿°¢Èý(Zhg)£º¶ÏÏßÁË¡£
+[2;37;0mProgram d/heimuya/npc/laozhe.c File: /d/heimuya/npc/laozhe.c:33: ERROR: (s)printf(): Incorrect argument to type %s. (arg 0)
+ERROR: (s)printf(): Incorrect argument to type %s. (arg 0)
+program: d/heimuya/npc/laozhe.c, object: d/heimuya/npc/laozhe#581, file: /d/heimuya/npc/laozhe.c:33
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºinherit/room/room.c µÚ 20 ÐÐ
+Îï¼þ: /d/wudang/fuzhen5
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºcmds/std/go.c µÄ main() µÚ 72 ÐÐ£¬Îï¼þ£º cmds/std/go
+ºô½ÐÀ´×Ô£ºd/wudang/fuzhen5.c µÄ create() µÚ 40 ÐÐ£¬Îï¼þ£º d/wudang/fuzhen5
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ setup() µÚ 203 ÐÐ£¬Îï¼þ£º d/wudang/fuzhen5
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 54 ÐÐ£¬Îï¼þ£º d/wudang/fuzhen5
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 20 ÐÐ£¬Îï¼þ£º d/wudang/fuzhen5
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Can't load objects when no effective user.
+
+³ÌÊ½£º<function> µÚ 0 ÐÐ
+Îï¼þ: /d/village/obj/zhujian
+ºô½ÐÀ´×Ô£ºinherit/char/char.c µÄ heart_beat() µÚ 95 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºfeature/attack.c µÄ attack() µÚ 176 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ fight() µÚ 491 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ do_attack() µÚ 223 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºfeature/dbase.c µÄ query() µÚ 50 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£º<function> µÄ <function>() µÚ 0 ÐÐ£¬Îï¼þ£º d/village/obj/zhujian ("Öñ½£")
+Heart beat in clone/user/user#62 turned off.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Can't load objects when no effective user.
+
+³ÌÊ½£º<function> µÚ 0 ÐÐ
+Îï¼þ: /d/village/obj/zhujian
+ºô½ÐÀ´×Ô£ºinherit/char/char.c µÄ heart_beat() µÚ 95 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºfeature/attack.c µÄ attack() µÚ 176 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ fight() µÚ 491 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ do_attack() µÚ 223 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºfeature/dbase.c µÄ query() µÚ 50 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£º<function> µÄ <function>() µÚ 0 ÐÐ£¬Îï¼þ£º d/village/obj/zhujian ("Öñ½£")
+Heart beat in clone/user/user#62 turned off.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Can't load objects when no effective user.
+
+³ÌÊ½£º<function> µÚ 0 ÐÐ
+Îï¼þ: /d/village/obj/zhujian
+ºô½ÐÀ´×Ô£ºinherit/char/char.c µÄ heart_beat() µÚ 95 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºfeature/attack.c µÄ attack() µÚ 176 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ fight() µÚ 491 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ do_attack() µÚ 223 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºfeature/dbase.c µÄ query() µÚ 50 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£º<function> µÄ <function>() µÚ 0 ÐÐ£¬Îï¼þ£º d/village/obj/zhujian ("Öñ½£")
+Heart beat in clone/user/user#62 turned off.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Can't load objects when no effective user.
+
+³ÌÊ½£º<function> µÚ 0 ÐÐ
+Îï¼þ: /d/village/obj/zhujian
+ºô½ÐÀ´×Ô£ºinherit/char/char.c µÄ heart_beat() µÚ 95 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºfeature/attack.c µÄ attack() µÚ 176 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ fight() µÚ 491 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ do_attack() µÚ 223 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºfeature/dbase.c µÄ query() µÚ 50 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£º<function> µÄ <function>() µÚ 0 ÐÐ£¬Îï¼þ£º d/village/obj/zhujian ("Öñ½£")
+Heart beat in clone/user/user#62 turned off.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Can't load objects when no effective user.
+
+³ÌÊ½£º<function> µÚ 0 ÐÐ
+Îï¼þ: /d/village/obj/zhujian
+ºô½ÐÀ´×Ô£ºinherit/char/char.c µÄ heart_beat() µÚ 95 ÐÐ£¬Îï¼þ£º d/city/npc/liumang#654 ("Á÷Ã¥")
+ºô½ÐÀ´×Ô£ºfeature/attack.c µÄ attack() µÚ 176 ÐÐ£¬Îï¼þ£º d/city/npc/liumang#654 ("Á÷Ã¥")
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ fight() µÚ 491 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ do_attack() µÚ 448 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ do_attack() µÚ 223 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºfeature/dbase.c µÄ query() µÚ 50 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£º<function> µÄ <function>() µÚ 0 ÐÐ£¬Îï¼þ£º d/village/obj/zhujian ("Öñ½£")
+Heart beat in d/city/npc/liumang#654 turned off.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Can't load objects when no effective user.
+
+³ÌÊ½£º<function> µÚ 0 ÐÐ
+Îï¼þ: /d/village/obj/zhujian
+ºô½ÐÀ´×Ô£ºinherit/char/char.c µÄ heart_beat() µÚ 95 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºfeature/attack.c µÄ attack() µÚ 176 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ fight() µÚ 491 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ do_attack() µÚ 223 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºfeature/dbase.c µÄ query() µÚ 50 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£º<function> µÄ <function>() µÚ 0 ÐÐ£¬Îï¼þ£º d/village/obj/zhujian ("Öñ½£")
+Heart beat in clone/user/user#62 turned off.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Can't load objects when no effective user.
+
+³ÌÊ½£º<function> µÚ 0 ÐÐ
+Îï¼þ: /d/village/obj/zhujian
+ºô½ÐÀ´×Ô£ºinherit/char/char.c µÄ heart_beat() µÚ 95 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºfeature/attack.c µÄ attack() µÚ 176 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ fight() µÚ 491 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ do_attack() µÚ 223 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºfeature/dbase.c µÄ query() µÚ 50 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£º<function> µÄ <function>() µÚ 0 ÐÐ£¬Îï¼þ£º d/village/obj/zhujian ("Öñ½£")
+Heart beat in clone/user/user#62 turned off.
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Can't load objects when no effective user.
+
+³ÌÊ½£º<function> µÚ 0 ÐÐ
+Îï¼þ: /d/village/obj/zhujian
+ºô½ÐÀ´×Ô£ºinherit/char/char.c µÄ heart_beat() µÚ 95 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºfeature/attack.c µÄ attack() µÚ 176 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ fight() µÚ 491 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºadm/daemons/combatd.c µÄ do_attack() µÚ 223 ÐÐ£¬Îï¼þ£º adm/daemons/combatd
+ºô½ÐÀ´×Ô£ºfeature/dbase.c µÄ query() µÚ 50 ÐÐ£¬Îï¼þ£º clone/user/user#62 ("°¢Èý")
+ºô½ÐÀ´×Ô£º<function> µÄ <function>() µÚ 0 ÐÐ£¬Îï¼þ£º d/village/obj/zhujian ("Öñ½£")
+Heart beat in clone/user/user#62 turned off.
+][1;31m¡¾ÏµÍ³¡¿°¢Èý(Zhg)£º¶ÏÏßÁË¡£
+[2;37;0m
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºinherit/room/room.c µÚ 20 ÐÐ
+Îï¼þ: /d/wudang/fuzhen5
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 54 ÐÐ£¬Îï¼þ£º d/wudang/fuzhen5
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 20 ÐÐ£¬Îï¼þ£º d/wudang/fuzhen5
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºinherit/room/room.c µÚ 20 ÐÐ
+Îï¼þ: /d/wudang/fuzhen5
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 54 ÐÐ£¬Îï¼þ£º d/wudang/fuzhen5
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 20 ÐÐ£¬Îï¼þ£º d/wudang/fuzhen5
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 21 15:43:58 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 21 16:39:31 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 21 17:06:23 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Mon Sep 21 17:06:45 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 22 07:55:49 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 22 08:04:38 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/kungfu/class/wudang/zhang'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 52 ÐÐ
+Îï¼þ: /cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#20 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/kungfu/class/wudang/zhang'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 52 ÐÐ
+Îï¼þ: /cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#20 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/kungfu/class/wudang/zhang'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 52 ÐÐ
+Îï¼þ: /cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#20 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/kungfu/class/wudang/zhang'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 52 ÐÐ
+Îï¼þ: /cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#20 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/kungfu/class/wudang/zhang'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 52 ÐÐ
+Îï¼þ: /cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#20 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/kungfu/class/wudang/zhang'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 52 ÐÐ
+Îï¼þ: /cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#20 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/kungfu/class/wudang/zhang'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 52 ÐÐ
+Îï¼þ: /cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#20 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+´íÎóÑ¶Ï¢±»À¹½Ø: 
+Ö´ÐÐÊ±¶Î´íÎó£º*Error in loading object '/kungfu/class/wudang/zhang'
+
+³ÌÊ½£ºcmds/wiz/update.c µÚ 52 ÐÐ
+Îï¼þ: /cmds/wiz/update
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#20 ("ÅÖÅÖ")
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+ºô½ÐÀ´×Ô£ºcmds/wiz/update.c µÄ CATCH() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/wiz/update
+
+Ö´ÐÐÊ±¶Î´íÎó£ºF_SKILL: No such skill (taiji-shenggong)
+
+³ÌÊ½£ºfeature/skill.c µÚ 20 ÐÐ
+Îï¼þ: /clone/user/user#51
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#51 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºcmds/arch/call.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/arch/call
+ºô½ÐÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 20 ÐÐ£¬Îï¼þ£º clone/user/user#51 ("°¢Èý")
+
+Ö´ÐÐÊ±¶Î´íÎó£ºF_SKILL: No such skill (taiji-shenggong)
+
+³ÌÊ½£ºfeature/skill.c µÚ 20 ÐÐ
+Îï¼þ: /clone/user/user#51
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#51 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºcmds/arch/call.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/arch/call
+ºô½ÐÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 20 ÐÐ£¬Îï¼þ£º clone/user/user#51 ("°¢Èý")
+
+Ö´ÐÐÊ±¶Î´íÎó£ºF_SKILL: No such skill (taiji-shenggong)
+
+³ÌÊ½£ºfeature/skill.c µÚ 20 ÐÐ
+Îï¼þ: /clone/user/user#51
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#51 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºcmds/arch/call.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/arch/call
+ºô½ÐÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 20 ÐÐ£¬Îï¼þ£º clone/user/user#51 ("°¢Èý")
+][1;31m¡¾ÏµÍ³¡¿°¢Èý(Zhg)£º¶ÏÏßÁË¡£
+[2;37;0m
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 184 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#224
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ checking() µÚ 184 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#224 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 184 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#224
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ checking() µÚ 184 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#224 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 184 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#224
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ checking() µÚ 184 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#224 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 184 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#224
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ checking() µÚ 184 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#224 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£ºÄã(jackyboy)²»ÄÜ´Ý»ÙÆäËûµÄÊ¹ÓÃÕß¡£
+
+³ÌÊ½£ºfeature/move.c µÚ 124 ÐÐ
+Îï¼þ: /clone/user/user#51
+ºô½ÐÀ´×Ô£ºu/jackyboy/topless.c µÄ force_quit() µÚ 496 ÐÐ£¬Îï¼þ£º u/jackyboy/topless#25 ("ÅÖÅÖ´ÓºÃÃÀÀöÄÇÀïÍµÀ´µÄÃÀÀöÓ¾×°")
+ºô½ÐÀ´×Ô£ºadm/obj/simul_efun.c µÄ destruct() µÚ 23 ÐÐ£¬Îï¼þ£º adm/obj/simul_efun
+ºô½ÐÀ´×Ô£ºfeature/move.c µÄ remove() µÚ 124 ÐÐ£¬Îï¼þ£º clone/user/user#51 ("°¢Èý")
+closed external ports
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 22 11:35:53 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+Ö´ÐÐÊ±¶Î´íÎó£ºF_SKILL: No such skill (taiji-shengzhang)
+
+³ÌÊ½£ºfeature/skill.c µÚ 20 ÐÐ
+Îï¼þ: /clone/user/user#22
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºcmds/arch/call.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/arch/call
+ºô½ÐÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 20 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+
+Ö´ÐÐÊ±¶Î´íÎó£ºF_SKILL: No such skill (taiji-shengzhang)
+
+³ÌÊ½£ºfeature/skill.c µÚ 20 ÐÐ
+Îï¼þ: /clone/user/user#22
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºcmds/arch/call.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/arch/call
+ºô½ÐÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 20 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 184 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#214
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ checking() µÚ 184 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#214 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 184 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#214
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ checking() µÚ 184 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#214 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£ºF_SKILL: No such skill (taijiquan)
+
+³ÌÊ½£ºfeature/skill.c µÚ 20 ÐÐ
+Îï¼þ: /clone/user/user#22
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºcmds/arch/call.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/arch/call
+ºô½ÐÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 20 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 184 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#214
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ checking() µÚ 184 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#214 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 184 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#214
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ checking() µÚ 184 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#214 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£ºF_SKILL: No such skill (taiji-shenggong)
+
+³ÌÊ½£ºfeature/skill.c µÚ 20 ÐÐ
+Îï¼þ: /clone/user/user#22
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºcmds/arch/call.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/arch/call
+ºô½ÐÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 20 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 184 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#214
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ checking() µÚ 184 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#214 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºd/npc/duanyanqing.c µÚ 184 ÐÐ
+Îï¼þ: /d/npc/duanyanqing#283
+ºô½ÐÀ´×Ô£ºd/npc/duanyanqing.c µÄ checking() µÚ 184 ÐÐ£¬Îï¼þ£º d/npc/duanyanqing#283 ("¶ÎÑÓÇì")
+
+Ö´ÐÐÊ±¶Î´íÎó£ºF_SKILL: No such skill (taiism)
+
+³ÌÊ½£ºfeature/skill.c µÚ 20 ÐÐ
+Îï¼þ: /clone/user/user#22
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºcmds/arch/call.c µÄ main() µÚ 52 ÐÐ£¬Îï¼þ£º cmds/arch/call
+ºô½ÐÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 20 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºinherit/room/room.c µÚ 20 ÐÐ
+Îï¼þ: /d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 56 ÐÐ£¬Îï¼þ£º clone/user/user#22 ("°¢Èý")
+ºô½ÐÀ´×Ô£ºcmds/std/go.c µÄ main() µÚ 72 ÐÐ£¬Îï¼þ£º cmds/std/go
+ºô½ÐÀ´×Ô£ºd/taohua/dayuan.c µÄ create() µÚ 26 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ setup() µÚ 203 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºd/taohua/dayuan.c µÄ reset() µÚ 75 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 54 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 20 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+
+Ö´ÐÐÊ±¶Î´íÎó£º*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+³ÌÊ½£ºinherit/room/room.c µÚ 20 ÐÐ
+Îï¼þ: /d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºd/taohua/dayuan.c µÄ reset() µÚ 75 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ reset() µÚ 54 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+ºô½ÐÀ´×Ô£ºinherit/room/room.c µÄ make_inventory() µÚ 20 ÐÐ£¬Îï¼þ£º d/taohua/dayuan
+get_user_data: read on fd 48
+System Error: get_user_data: read:No such file or directory
+][1;31m¡¾ÏµÍ³¡¿°¢Èý(Zhg)£º¶ÏÏßÁË¡£
+[2;37;0mget_user_data: read on fd 44
+System Error: get_user_data: read:No such file or directory
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 22 13:36:16 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ðÓ¹ÈºÏÀ´« (MudOS v21.7) starting up on Microsoft Windows NT - Tue Sep 22 13:37:18 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 8888.

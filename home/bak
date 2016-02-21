@@ -1,0 +1,12 @@
+while [ 0 -eq 0 ]
+do
+ps -u mud>/home/mud/file1
+grep driver /home/mud/file1
+if [ $? -ne 0 ]
+  then
+ cd /opt/xkx/borland/mudos/bin
+ startxkx
+ else
+  sleep 20
+fi
+done

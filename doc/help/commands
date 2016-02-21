@@ -1,0 +1,31 @@
+金庸群侠传游戏的命令分为下列几类：
+
+［玩家命令］
+
+alias   bt      ce      desc    exit    finger  help
+hp      id      nick    passwd  quit    save    inventory
+score   set     suicide time    title   unset   uptime
+version who     wimpy   wizlist
+
+［探险命令］
+
+ansuan  ask     beg     buy     chat    close   drop
+emote   fight   follow  get     give    go      halt
+hit     kill    look    nuoyi   open    put     remove
+reply   say     semote  shout   sleep   steal   team
+tell    touxi   tune    unwield vote    wear    whisper
+wield
+
+［武功命令］
+
+abadon(fangqi)  apprentice(bai) check(dating)   enable(jifa)
+enforce(jiali)  exercise(dazuo) exert(yun)      expell(kaichu)
+learn(xue)      meditate(tuna)  perform(yong)   persuade(quan)
+practice(lian)  prepare(bei)    recruit(shou)   skills(cha)
+study(du)       teach(jiao)
+
+
+［巫师命令］
+
+请参照 help wizcmds
+

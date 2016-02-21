@@ -1,0 +1,254 @@
+Ò». ÑÕÉ«´úÂë:
+  ¡¡$BLK$ - ºÚÉ«¡¡¡¡¡¡¡¡¡¡¡¡$NOR$ - »Ö¸´Õı³£ÑÕÉ«¡¡¡¡$RED$ - ºìÉ«¡¡¡¡¡¡¡¡¡¡¡¡$HIR$ - ÁÁºìÉ«
+¡¡¡¡$GRN$ - ÂÌÉ«¡¡¡¡¡¡¡¡¡¡¡¡$HIG$ - ÁÁÂÌÉ«¡¡      ¡¡$YEL$ - ÍÁ»ÆÉ«¡¡¡¡¡¡¡¡¡¡$HIY$ - »ÆÉ«
+¡¡¡¡$BLU$ - ÉîÀ¶É«¡¡¡¡¡¡¡¡¡¡$HIB$ - À¶É«¡¡¡¡        $MAG$ - Ç³×ÏÉ«¡¡¡¡¡¡  ¡¡$HIM$  - ·ÛºìÉ«
+¡¡¡¡$CYN$ - À¶ÂÌÉ«¡¡¡¡¡¡¡¡¡¡$HIG$ - ÌìÇàÉ«¡¡¡¡      $WHT$ - Ç³»ÒÉ«¡¡¡¡¡¡¡¡¡¡$HIW$ - °×É« 
+¶ş.Î×Ê¦»ù±¾ÖªÊ¶:
+   1. goto£¬×¥£¬call,clone202.112.4.120 6666
+   2.É±ËÀ playerµÄÉÁµç£ºsmash
+   3. clone ÊÇ±äÎïÆ·
+      in the mud:cd /d/huashan/,clone guo
+   4.callµÄÓÃ·¨: 
+    call dewey->set_skill("xiaoyao-shengong",590000)
+    call dewey->set("combat_exp"1000000)
+    call dewey->set("force"1000000),¸Ä³öµÄÄÚÁ¦ÓÃºó¾ÍÃ»ÁË£¡
+    call dewey->set("max_force"1000000),
+    call dewey->set("max_mana"1000000),·¨Á¦ÉÏÏŞ
+    call dewey->set("mana"1000000),·¨Á¦Öµ
+    str=±ÛÁ¦£¬cor=µ¨Ê¶,int=ÎòĞÔ£¬spir=ÁéĞÔ,cps=¶¨Á¦
+    per=ÈİÃ²£¬con=¸ù¹Ç,kar=¸£Ôµ, Ç±ÄÜ=potential
+    call dewey->set("Ãû",Êı×Ö£©
+  5.ÇøÓòÖÆÔìÖ÷ÒªµÄÊÇÓÃcÓïÑÔĞ´ºÜ¶à·¿¼ä,mudµÄ×î»ù±¾¹¹Ôì¾ÍÊÇ·¿¼ä;È»ºóÊÇĞ´Îä¹¦ºÍnpc;×îºóÊÇÓÃintÀ´Ğ´
+    ÃÕÌâ.ÆäÏà¹ØÖ¸ÁîÌ«¶àÁË(Ö÷ÒªÊÇºÜ¶àºÜ¶àµÄº¯Êı£©.¿ÉÒÔÓÃeditÔÚÏßÉÏĞ´£¬Ò²¿ÉÒÔÓÃÏÖ³¡±à¼­Æ÷Ğ´»¹¿ÉÒÔ
+    Ğ´ºÃºó£¬ÓÃftp´«µ½mudÀï.mudÀï»¹ÓĞ·¿¼ä±à¼­Æ÷£¨makeroom)£¬npc ±à¼­Æ÷.Î×Ê¦»¹Òª¶ÔÏµÍ³×öÒ»¶¨µÄ¹ÜÀí
+    £¬ÓĞ×¨ÃÅµÄÖ¸Áî.Ö»ÒªÉÆÓÚ¶Ô³ÌĞò½øĞĞ¸´ÖÆ¾ÍĞĞÁË£¡mudµÄĞí¶à³ÌĞò¶¼Ïà²î²»´ó£¬½øĞĞ¸´ÖÆ¾ÍĞĞÁË£¡±ÈÈçËµ
+    taiji-shengongºÍxiaoyao-shengong,Ö»Òª°ÑÎÄ×ÖÃèĞ´¸ÄÒ»¸Ä£¬¹¥»÷Á¦±äÒ»±ä¾ÍokÁË£¡es2µÄÏµÍ³Àï¾ÍÓĞ²»
+    ÉÙµÄ¹¦·ò£¬·¿¼ä.
+  6.Ê¾Àı:
+
+    a."longmenkezhan.c"º// renshen-guo.c ÈË²Î¹û
+
+      inherit ITEM
+
+      int do_eat(string)
+      void init()
+
+      void init()
+     {
+        if (!wizardp(this_player())) {
+                set(no_get, ºÙºÙ£¬×öÃÎ°É! \n)
+                set(no_drop,ÕâÃ´±¦¹óµÄÈË²Î¹û£¬ÄÄÄÜÂÒÈÓ! \n)
+                add_action(do_eat, eat)
+     }
+
+      void create()
+     {
+        set_name(HIG ÈË²Î¹û NOR, ({renshen guo, guo}))
+        set_weight(20)
+        if (clonep())
+                set_default_object(__FILE__)
+        else {
+                set(unit, Ã¶)
+                set(long, 
+                set(value, 100000)
+        }
+
+        setup()
+      }
+
+       int do_eat(string arg)
+      {
+        object me = this_player()
+
+        if (!id(arg))        me->set(eff_gin, 1)
+        me->set(gin, 1)
+        me->set(eff_kee, 1)
+        me->set(kee, 1)
+        me->set(eff_sen, 1)
+        me->set(sen, 1)
+        me->set(force, 0)
+        me->set(food, 0)
+        me->set(water, 0)
+        
+        message_vision(HIG
+        "$N³ÔÏÂÒ»Ã¶ÈË²Î¹û£¬Ö»¾õµÃ¾«Éñ½¡Íú£¬ÆøÑª³äÓ¯£¬ÌåÄÚÕæÁ¦Ô´Ô´×ÌÉú£¬ÉõÖÁ²»ÔÙ¸Ğµ½¼¢¶ö¸É¿Ê! \n"NOR,me)
+
+        destruct(this_object())
+      }
+        µÚÒ»¶ÎÊÇÉè¶¨guo²»ÄÜdrop
+        µÚ2¶ÎÊÇÉè¶¨look guoÊ±playerËù¿´µ½µÄ 
+        µÚ3¶ÎÊÇÉè¶¨eat guoÊ±¸øplayer¼ÓhpµÄÊı×Ö 
+        me->set.......ÖĞµÄ......¶ÔÓ¦playerµÄhpµÄ¸÷ÏîÖµ
+
+b// xiaoyao-bu.c
+
+inherit SKILL;
+
+string *dodge_msg = ({
+        "µ«ÊÇ$nÉíĞÎÆ®ºö²»¶¨£¬Ò»Ê½¡°ÉñÓÎÌìÍâ¡±£¬ÇáÇáÒ»×İ£¬ÔçÒÑ±Ü¿ª¡£\n",
+        "$nÉíËæÒâ×ª£¬Ê¹³öÒ»Ê½¡°ÔÆÖĞÊ®°ËĞı¡±£¬Ù¿µØ×ªµ½$NÉíºó£¬±Ü¹ıÁËÕâÒ»ÕĞ¡£\n",
+       "¿ÉÊÇ$n²àÉíÒ»ÈÃ£¬Ò»Ê½¡°Ì¤ÔÆ²½¡±£¬ÔÚ¿ÕÖĞ»¯Îª¡°ÔÆÖĞ·É¡±£¬ÈÃ$NÕâÒ»ÕĞÆËÁË¸ö¿Õ¡£\n",
+        "È´¼û$n×ã²»µãµØ£¬Ò»Ê½¡°³ËÔÆÓÎ¡±£¬ÍùÅÔ´Ü¿ªÊıÕÉ£¬×ËÌ¬ÃÀÃîµØ¶ãÁË¿ªÈ¥¡£\n",
+        "$nÉíĞÎÎ¢»Î£¬Ê¹³öÒ»Ê½¡°åĞÒ£ÓÎ¡±£¬ÓĞ¾ªÎŞÏÕµØ±Ü¿ªÁË$NÕâÒ»ÕĞ¡£\n",
+        "Ö»¼û$nÉíĞÎÁ¬»Î£¬Ò»Ê½¡°åĞÒ£Ê®°Ë±ä¡±£¬»Î³öÊ®°Ë¸öÉíÓ°£¬Áî$N²»ÖªËù´ë¡£\n"
+        
+});
+
+int valid_enable(string usage)
+{
+        return (usage=="dodge") || (usage=="move");
+}
+
+int valid_learn(object me)
+{
+        return 1;
+}
+
+string query_dodge_msg(string limb)
+{
+        return dodge_msg[random(sizeof(dodge_msg))];
+}
+
+int practice_skill(object me)
+{
+        if( (int)me->query("kee") < 30 )
+                return notify_fail("ÄãµÄÌåÁ¦Ì«²îÁË£¬²»ÄÜÁ·åĞÒ£µÇÔÆ²½¡£\n");
+        me->receive_damage("kee", 25);
+
+}
+string perform_action_file(string action)
+{
+         return CLASS_D("huashan") + "/xiaoyao-bu/" + action;
+
+
+// xiaoyao-daofa.c
+
+inherit SKILL;
+
+mapping *action = ({
+        ([      "action":               "$NÊ¹Ò»ÕĞ¡¸¿ñÁú·­ÔÆ¡¹£¬ÊÖÖĞ$w¼Ğ×ÅÂ¡Â¡À×Éù£¬¿ñ·ç±©Óê°ãÏò$nµÄ$lÕ¶È¥£¡",
+                "dodge":                5,
+                "force":                100,
+                "lvl":                  0,
+                "damage_type":  "¸îÉË"
+        ]),
+    
+        ([      "action":               "$NÊÖÖĞ$wÓ­·çÒ»»Î£¬Ò»ÕĞ¡¸Å­ÁúÏ·Ë®¡¹£¬»Î³öÒ»Æ¬µ¶¹â£¬Íù$nµÄ$lĞ±Ğ±¿³³öÒ»µ¶",
+¬»              "damage":               100,
+                "dodge":                -20,
+                "force":                230,
+                "lvl":                  49,
+                "damage_type":  "¡õÉË"
+        ]),
+        ([      "action":               "$NÌáµ¶¹ı¼ç£¬Ğî¾¢·¢Á¦£¬Å­ºÈÒ»Éù£¬Ò»ÕĞ¡¸±©ÁúÁÑÌì¡¹£¬ÊÖÖĞ$w»¯×÷Ò»ÌõÇàÁúÖ±Åü$n$l",
+                "damage":               200,
+                "dodge":                35,
+                "force":                490,
+                "lvl":                  99,
+     
+        ]),
+
+
+   if( (string)me->query_skill_mapped("force")!= "xiaoyao-force")
+                return notify_fail("åĞÒ£ÌÚÁú½£±ØĞëÅäºÏåĞÒ£¸óµÄ¶ÀÃÅåĞÒ£Éñ¹¦²ÅÄÜÁ·¡£\n");
+        if( !(ob = me->query_temp("weapon"))
+        ||      (string)ob->query("skill_type") != "sword" )
+                return notify_fail("Äã±ØĞëÏÈÕÒÒ»°Ñ½£²ÅÄÜÁ·½£·¨¡£\n");
+
+7mknpc <NPCµµÃû> <NPCÃû×Ö>
+
+    Ôì³öÒ»¸ö¡¸ĞÂ¡¹NPC£¬Ö®ááÄã¿ÉÒÔ goto Õâ¸öNPCÓÃ nset ºÍ skset Éè¶¨NPCµÄ
+    ĞğÊö¡¢ÊôĞÔºÍ¹¦·ò¡£
+
+nset <NPCÊôĞÔ> <ÊôĞÔÄÚÈİ>
+
+    Éè¶¨ÄãÄ¿Ç°ËùÔÚNPCµÄÊôĞÔ£¬Èç name, age,  kee,  qin,   sen,   nickname,  gender,   long
+ender,   long
+    ëöÁ¦ - str  µ¨Ê¶ - cor  ÎòĞÔ - int ÁéĞÔ - spi ¶¨Á¦ - cps ¸ù¹Ç - con     ¸£Ôµ - kar  
+    ¸£Ôµ - kar  
+    ÈİÃ² - per  ¾­Ñé - combat_exp ºÍ ÄÚÁ¦·½ÃæµÄ force/max_force(force_factor)
+)
+    Ãû·Ö rank_info/respect ÆÀ¼Û score
+
+skset <¹¦·òÃû> <¼¶>
+
+
+mpset <»ù±¾¹¦·òÃû> <¸ß¼¶¹¦·òÃû>
+
+    ÉèÖÃNPCÊÔÓÃµÄ¹¦·ò¡£
+
+family  <ÃÅÅÉ> <¼¸´ú> <³Æºô>
+
+    ½«ÄãÄ¿Ç°NPCµÄÃÅÅÉĞÅÏ¢Ğ´Èë¡£
+
+carry <ÎïÆ·> <×°±¸·½Ê½>
+
+    ¸øµ±Ç°NPCÔö¼ÓÎïÆ·£¬wear , wield¡£
+
+money <Ç®Ãû> <ÊıÁ¿>
+
+
+8.       add_action("do_pick", "pick");
+}
+
+int do_pick(string arg)
+{
+        object me;
+
+        me = this_player();
+        if ( !arg || ( arg != "flower" ) ) return notify_fail("ÄãÒªÕªÊ²÷á£¿\n");
+n");
+
+        else if ( random((int)me->query("kar")) < 7 )
+                message_vision("$N½«»¨ÕªÁËÏÂÀ´£¬µ«Ò»²»Ğ¡ĞÄ±»´ÌÁËÒ»ÏÂ¡£\n", me);
+e);
+
+        else
+                message_vision("$NÕªÏÂÒ»¶äÃÀÀöµÄÑªºìÉ«ÏÊ»¨¡£\n", me);
+
+        return 1;
+
+
+
+9.// dragon.c
+
+inherit NPC;
+
+void create()
+{
+        set_name("»¤¸ó¿ñÁú", ({ "dragon" }) );
+        set("long",
+                "ÕâÊÇÒ»Ö»åĞÒ£¸óÓÃÓÚÊØ»¤åĞÒ£»¨ÕóµÄ½ğÁú£¬ËüÉíÉÏµÄÁÛÆ¬ÉÁÉÁ·¢ÖøÒ«ÑÛµÄ¹âÃ¢¡£\n");
+«ÑÛµÄ¹âÃ¢¡£\n");
+
+        set("race", "Ò°ÊŞ");
+        set("age", 600);
+        set("attitude", "aggressive");
+
+        set("max_gin", 4500);
+        set("max_kee", 7000);
+        set("max_sen", 4000);
+
+        set("str", 180);
+        set("cor", 160);
+        set("cps", 120);
+        set("spi", 100);
+        set("int", 70);
+
+        set("limbs", ({ "Í·²¿", "ÉíÌå", "Ç°×¦", "áá×¦", "Î²°Í" }) );
+        set("verbs", ({ "bite", "claw" }) );
+
+        set_temp("apply/attack", 100);
+        set_temp("apply/dodge", 100);
+        set_temp("apply/armor", 60);
+
+        set("combat_exp", 1000000);
+        setup();
+×Ü½á:
+
+  ÔÚ³ÌĞòÀïµÄ//ÒÔºóµÄÏàµ±ÓëËµÃ÷£¬²¢²»ÔËĞĞ
+arÊÇÈËÎïµÄ²ÎÊıÖµ£¬Äã¿É²Î¿¼npc¶Î»òÊÇËµÄã¿ÉÒÔ×öµ½ÈÎÒâµÄÊÂ(pick¶Î£©£¬ÕâÊÇºÜÖØÒªµÄÒ»¸ö·½·¨£¡£¡
+Òª·ÖÇåº¯ÊıºÍ±äÁ¿
+pick¶ÎÊÇintº¯Êı£¬ÓÃÕâ¸öº¯Êı¿ÉÒÔÍê³ÉÒ»ÇĞÄãËùÏëÒª×öµÄ£¡
+ËüÌåÏÖÁË³ÌĞò¸ù¾İplayerËù×öµÄ¶¯×÷È¥µ÷È¡ÏàÓ¦µÄÄÚ²¿º¯Êı»òÎ×Ê¦Éè¼ÆµÄ³ÌĞò
+ Ğ¡×¿ËµµÀ£º mkroom ½¨·¿Ğ¡×¿ËµµÀ£º set short Ğ´¶ÌÃèĞğĞ¡×¿ËµµÀ£º set long Ğ´³¤ÃèĞğĞ¡×¿ËµµÀ£º connect  Á¬½Ó room

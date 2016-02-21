@@ -1,0 +1,1 @@
+sscanf(base_name(user), "/clone/%*s");

@@ -1,0 +1,2 @@
+#inherit/misc/bboard.c
+dbase (["notes":({(["msg":"现在加上了，大家可以post,save了.","time":862063367,"author":"风云","title":"1",]),(["msg":"read 2","author":"小温乐","time":862134588,"title":" cc jump【闲聊】小温乐高兴地跳了起来。thank wizards",]),(["msg":"来到灵鹫真不容一易呀,还不错拜了虚竹乐,xixi.q","time":863608710,"author":"楚如风","title":"众里寻她",]),}),"id":"board","capacity":30,"board_id":"lingjiu_b","location":"/d/lingjiu/dating","name":"灵鹫宫弟子留言板","no_get":1,"long":"这是一个供灵鹫宫弟子交流的留言板。",])

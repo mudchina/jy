@@ -1,0 +1,4 @@
+// begging.c
+
+inherit SKILL;
+
